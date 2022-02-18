@@ -10,12 +10,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 1: [Introdução - Unix & Shell](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/01-unix-%26-bash)
 
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+- [x] 1-3: _Unix & Shell- Part 1_
+- [x] 1-4: _Unix & Shell- Part 2_
 
 ##### Bloco 2: [Git & GitHub](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/02-git-github-e-internet)
 
-- [ ] 2-1: _O que é e para que serve?_
+- [x] 2-1: _O que é e para que serve?_
 - [ ] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
 
