@@ -6,20 +6,20 @@ _"A Trybe Ã© uma escola do futuro para qualquer pessoa que queira melhorar de 
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introduÃ§Ã£o ao desenvolvimento de software, front-end, back-end, ciÃªncia da computaÃ§Ã£o, engenharia de software, metodologias Ã¡geis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## [Fundamentos do Desenvolvimento Web :white_check_mark:](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos)
 
-##### Bloco 1: IntroduÃ§Ã£o - Unix & Shell
+##### Bloco 1: [IntroduÃ§Ã£o - Unix & Shell](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/01-unix-%26-bash)
 
 - [ ] 1-3: _Unix & Shell- Part 1_
 - [ ] 1-4: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: [Git & GitHub](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/02-git-github-e-internet)
 
 - [ ] 2-1: _O que Ã© e para que serve?_
 - [ ] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: IntroduÃ§Ã£o - HTML & CSS
+##### Bloco 3: [IntroduÃ§Ã£o - HTML & CSS](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/03-introducao-a-html-e-css)
 
 - [ ] 3-1: _HTML & CSS - Estruturas de pÃ¡gina_
 - [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 3-4: _HTML SemÃ¢ntico_
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
 
-##### Bloco 4: IntroduÃ§Ã£o - JavaScript
+##### Bloco 4: [IntroduÃ§Ã£o - JavaScript](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/04-introducao-a-javascript-e-logica-de-programacao)
 
 - [ ] 4-1: _JavaScript - Primeiros passos_
 - [ ] 4-2: _JavaScript - Array e loop For_
@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 4-4: _JavaScript - Objetos e funÃ§Ãµes_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: IntroduÃ§Ã£o - JavaScript - Projetos
+##### Bloco 5: [IntroduÃ§Ã£o - JavaScript - Projetos](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/05-javascript:-dom-eventos-e-web-storage)
 
 - [ ] 5-1: _JavaScript - DOM e seletores_
 - [ ] 5-2: _JavaScript - Trabalhando com elementos_
@@ -47,7 +47,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avanÃ§ado
+##### Bloco 6: [HTML & CSS avanÃ§ado](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/06-html-e-css:-forms-flexbox-e-responsivo)
 
 - [ ] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -56,14 +56,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - PÃ¡gina inicial do Facebook]()_
 
-##### Bloco 7: JavaScript ES6 & Testes UnitÃ¡rios
+##### Bloco 7: [JavaScript ES6 & Testes UnitÃ¡rios](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/07-introducao-a-javascript-es6-e-testes-unit%C3%A1rios)
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] 7-2: _JavaScript ES6 - Objects_
 - [ ] 7-3: _Testes unitÃ¡rios em JavaScript_
 - [ ] 7-4: _[Projeto - JavaScript Testes UnitÃ¡rios]()_
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 8: [JavaScript ES6](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/08-higher-order-functions-do-javascript-es6)
 
 - [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
@@ -71,7 +71,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [ ] 8-5: _[Projeto - Zoo functions]()_
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 9: [Assincronicidade & Callbacks](https://github.com/ranierirfm/trybe-exercicios/tree/main/fundamentos/09-javascript-e-testes-assincronos)
 
 - [ ] 9-1: _JavaScript AssÃ­ncrono e Callbacks_
 - [ ] 9-2: _JavaScript Promises_
