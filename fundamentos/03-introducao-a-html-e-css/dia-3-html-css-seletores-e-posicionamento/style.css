@@ -1,40 +1,16 @@
-* {
-    margin: 0;
-    border: 0;
-    padding: 0;
+h1 {
+    text-align: center;
 }
 
-.super-mario {
-    position: absolute;
-    width: 200px;
-    left: 50px;
+ol :active {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.goomba {
-    position: absolute;
-    width: 100px;
-    left: 100px;
-    bottom: 80px;
+ol li :hover {
+    background-color: aquamarine;
 }
 
-.baloon {
-    position: absolute;
-    width: 200px;
-    left: 550px;
-    top: 150px;
-}
-
-.speach {
-    position: absolute;
-    width: 190px;
-    left: 600px;
-    top: 190px;
-    z-index: 1;
-}
-
-.bowser {
-    position: absolute;
-    width: 200px;
-    left: 750px;
-    top: 250px;
+ol,
+ul {
+    list-style: none;
 }
