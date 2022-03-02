@@ -1,0 +1,32 @@
+h1 { 
+    font-family: sans-serif;
+    text-decoration:underline;
+    text-align: center;
+    font-size: 65px;
+    color: orangered;
+  }
+  ul {
+    background-color:bisque;
+  }
+  .mudar {
+    background-color: aqua;
+  }
+  body {
+    font-size: 16px;
+    font-style: normal;
+    
+  }
+  p {
+    font-size: 48px;
+    font-weight: 600;
+    font-size:;
+  }
+  #liamarelo {
+    background-color: yellow;
+  }
+  #livermelho {
+    background-color: red;
+  }
+  #limarron {
+    background-color: brown;
+  }
