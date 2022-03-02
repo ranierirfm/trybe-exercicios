@@ -1,16 +1,6 @@
-h1 {
-    text-align: center;
-}
-
-ol :active {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-ol li :hover {
-    background-color: aquamarine;
-}
-
-ol,
-ul {
-    list-style: none;
-}
+       div :hover {
+           border: 1px;
+           border-color: black;
+           border-style: solid;
+           background-color: blue, yellow, green, black, white;
+       }
