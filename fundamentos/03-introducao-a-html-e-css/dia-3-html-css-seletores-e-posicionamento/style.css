@@ -1,6 +1,30 @@
        div :hover {
-           border: 1px;
-           border-color: black;
-           border-style: solid;
-           background-color: blue, yellow, green, black, white;
+           border: 1px solid black
        }
+       
+       .corPrimaria {
+           background-color: yellow;
+       }
+       
+       .corSecundaria {
+           background-color: green;
+       }
+       
+       .corComplementar {
+           background-color: blue;
+           padding: 30px;
+       }
+       
+       .corEscura {
+           background-color: black;
+       }
+       
+       .corClara {
+           background-color: white;
+       }
+       
+       div h3 {
+           font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       }
+       
+       h3:nth-child(odd) {}
