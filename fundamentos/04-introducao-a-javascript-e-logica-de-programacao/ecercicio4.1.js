@@ -17,6 +17,6 @@ const b = 6;
 // let resultados = a / b;
 // console.log(resultados);
 
-// programa5
-// let resultados = a % b;
-// console.log(resultados);
+programa5
+let resultados = a % b;
+console.log(resultados);
