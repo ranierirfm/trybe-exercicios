@@ -38,13 +38,13 @@
 // }
 //5. Crie um algoritmo que recebe a idade de Manu, Ana e Ronald e imprime quem é a mais nova no formato:
 // "Pessoa" é a mais nova.
-let idade1 = 15;
-let idade2 = 20;
-let idade3 = 99;
-if (idade1 < idade2 && idade1 < idade3) {
-    console.log("A mais jovem é a Manu")
-} else if (idade2 < idade1 && idade2 < idade3) {
-    console.log("A mais jovem é a Ana")
-} else if (idade3 < idade1 && idade3 < idade2) {
-    console.log("O mais jovem é o Ronald")
-}
+// let idade1 = 15;
+// let idade2 = 20;
+// let idade3 = 99;
+// if (idade1 < idade2 && idade1 < idade3) {
+//     console.log("A mais jovem é a Manu")
+// } else if (idade2 < idade1 && idade2 < idade3) {
+//     console.log("A mais jovem é a Ana")
+// } else if (idade3 < idade1 && idade3 < idade2) {
+//     console.log("O mais jovem é o Ronald")
+// }
